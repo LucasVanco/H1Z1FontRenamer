@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\bin\Debug\H1Z1FontRenamer.exe.config
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\bin\Debug\H1Z1FontRenamer.exe
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\bin\Debug\H1Z1FontRenamer.pdb
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.H1Z1FontRenamer.resources
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.Properties.Resources.resources
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.exe
+C:\Users\Lucas\Documents\Projects\H1Z1FontRenamer\H1Z1FontRenamer\obj\Debug\H1Z1FontRenamer.pdb
