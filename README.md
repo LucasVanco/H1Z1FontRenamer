@@ -29,7 +29,7 @@ Your local font file (.ttf or .otf).
 #### <i class="icon-folder-open"></i> Destination Folder
 
 H1Z1 font folder (or any folder).
-><i>**Default**  :   H1Z1_installation_directory\UI\Resource\Fonts
+><i>**Default**</i>  :   H1Z1_installation_directory\UI\Resource\Fonts
 
 #### <i class="icon-right-hand"></i> Rename
 
@@ -67,7 +67,7 @@ Your local font file for bold type fonts (.ttf or .otf).
 #### <i class="icon-folder-open"></i> Destination Folder
 
 H1Z1 font folder (or any folder).
-><i>**Default**  :   H1Z1_installation_directory\UI\Resource\Fonts
+><i>**Default**</i>  :   H1Z1_installation_directory\UI\Resource\Fonts
 
 #### <i class="icon-right-hand"></i> Rename
 
