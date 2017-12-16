@@ -53,10 +53,12 @@ namespace H1Z1FontRenamer
 
             boldFont = new String[]
             {
-                "CaviarDreams_Bold.ttf",
                 "NanumBarunGothicBold.ttf",
                 "Oswald-Bold_0.ttf",
-                "Roboto-Bold.ttf"
+                "Roboto-Bold.ttf",
+                "Montserrat-Bold.ttf",
+                "Montserrat-ExtraBold.ttf",
+                "Montserrat-SemiBold.ttf"
             };
             mediumFont = new String[]
             {
@@ -64,8 +66,13 @@ namespace H1Z1FontRenamer
                 "Oswald-Regular_0.ttf",
                 "Roboto-Medium.ttf",
                 "Roboto-Regular.ttf",
+                "RobotoMono-Regular.ttf",
                 "ROSA Verde Normal.ttf",
-                "simhei.ttf"
+                "simhei.ttf",
+                "ARIALUNI.TTF",
+                "leelawad.ttf",
+                "Montserrat-Medium.ttf",
+                "Montserrat-Regular.ttf"
             };
             lightFont = new String[]
             {
