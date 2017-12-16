@@ -6,7 +6,11 @@ H1Z1FontRenamer is a simple tool that will help you customize your H1Z1 fonts.
 
 ----------
 
+Where to find
+-------------
+Hop to the [release](https://github.com/TresorDeKelloggS/H1Z1FontRenamer/releases) section of this repository
 
+----------
 Basic mode
 -------------
 
